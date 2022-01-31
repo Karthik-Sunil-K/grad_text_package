@@ -4,7 +4,8 @@ A Flutter Widget to draw gradients into text.
 
 # Demo
 
-<!-- ![Alt Text](https://s7.gifyu.com/images/easy_gradient_text.gif) -->
+<img src="https://user-images.githubusercontent.com/62179996/151789079-352c06b6-c9be-4788-97bb-fffb70fa0750.png" width="40%" align="left" padding='50'/>
+
 
 # Install
 
