@@ -14,7 +14,7 @@ Add the plugin
 ```yaml
 dependencies:
   ...
-  grad_text: ^0.0.2
+  grad_text: ^0.0.3
 ```
 
 # Usage
@@ -27,7 +27,7 @@ Use it:
 
 ```dart
 GradientText(
-    text: 'My Name is Karthik Sunil',
+    text: 'My Name is Karthik',
     colors: <Color>[
         Colors.deepOrange,
         Colors.yellow
