@@ -1,3 +1,3 @@
-## 0.0.1
+## 0.0.2
 
-Text widget with gradient color property
+Text widget with gradient color property(Null safe)

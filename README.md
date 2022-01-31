@@ -1,6 +1,6 @@
 # grad_text
 
-A Flutter Widget to draw gradients into text.
+A Flutter Widget to draw gradients into text.(Null safe)
 
 # Demo
 
@@ -14,7 +14,7 @@ Add the plugin
 ```yaml
 dependencies:
   ...
-  grad_text: ^0.0.1
+  grad_text: ^0.0.2
 ```
 
 # Usage
